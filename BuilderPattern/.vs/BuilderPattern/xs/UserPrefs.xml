@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B3272FF7-E43E-4450-ADC2-624E8A0FED25}|Default">
+  <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/OldRobotBuilder.cs">
+    <Files>
+      <File FileName="BuilderPattern/OldRobotBuilder.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuilderPattern" expanded="True">
+            <Node name="BuilderPattern" expanded="True">
+              <Node name="OldRobotBuilder.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

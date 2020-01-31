@@ -1,0 +1,11 @@
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/bin/Debug/netcoreapp3.1/AdapterDesignPattern
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/bin/Debug/netcoreapp3.1/AdapterDesignPattern.deps.json
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/bin/Debug/netcoreapp3.1/AdapterDesignPattern.runtimeconfig.json
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/bin/Debug/netcoreapp3.1/AdapterDesignPattern.runtimeconfig.dev.json
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/bin/Debug/netcoreapp3.1/AdapterDesignPattern.dll
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/bin/Debug/netcoreapp3.1/AdapterDesignPattern.pdb
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/obj/Debug/netcoreapp3.1/AdapterDesignPattern.csprojAssemblyReference.cache
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/obj/Debug/netcoreapp3.1/AdapterDesignPattern.AssemblyInfoInputs.cache
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/obj/Debug/netcoreapp3.1/AdapterDesignPattern.AssemblyInfo.cs
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/obj/Debug/netcoreapp3.1/AdapterDesignPattern.dll
+/Users/macuser/Documents/Rider_Scripts/AdapterDesignPattern/AdapterDesignPattern/obj/Debug/netcoreapp3.1/AdapterDesignPattern.pdb

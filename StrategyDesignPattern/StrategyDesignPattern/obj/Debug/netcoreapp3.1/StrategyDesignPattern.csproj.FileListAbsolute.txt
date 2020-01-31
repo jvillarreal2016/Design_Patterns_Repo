@@ -1,0 +1,11 @@
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/netcoreapp3.1/StrategyDesignPattern
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/netcoreapp3.1/StrategyDesignPattern.deps.json
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/netcoreapp3.1/StrategyDesignPattern.runtimeconfig.json
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/netcoreapp3.1/StrategyDesignPattern.runtimeconfig.dev.json
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/netcoreapp3.1/StrategyDesignPattern.dll
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/netcoreapp3.1/StrategyDesignPattern.pdb
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/netcoreapp3.1/StrategyDesignPattern.csprojAssemblyReference.cache
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/netcoreapp3.1/StrategyDesignPattern.AssemblyInfoInputs.cache
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/netcoreapp3.1/StrategyDesignPattern.AssemblyInfo.cs
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/netcoreapp3.1/StrategyDesignPattern.dll
+/Users/macuser/Documents/Rider_Scripts/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/netcoreapp3.1/StrategyDesignPattern.pdb
